@@ -1,0 +1,10 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+env/
+.venv/
+backend/__pycache__
+.pytest_cache
+uploads
+reports

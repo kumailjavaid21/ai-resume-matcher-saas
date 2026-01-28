@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Virtual env
+.venv/
+venv/
+
+# Secrets
+.env
+
+# App data (DO NOT COMMIT)
+uploads/
+reports/
+*.db
+*.sqlite
+*.sqlite3
+
+# OS/IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
